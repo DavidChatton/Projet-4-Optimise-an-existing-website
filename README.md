@@ -27,7 +27,7 @@ Sophie invites you to a meeting to define the scope of the assignment. Here are 
 ## Tool Used
 
 - [WAVE](https://wave.webaim.org/) which detects accessibility problems with colour contrasts and tag errors and determines the AA or AAA level of our site.
-- [Un Lecteur d'écran](https://www.nvda-fr.org/cat.php?id=2) To check that the screen interprets what you want it to say
+- [A screen reader](https://www.nvda-fr.org/cat.php?id=2) To check that the screen interprets what you want it to say
 - [GtMetrix](https://gtmetrix.com/) To analyze the performance of our site.
 - [OnCrawl](https://fr.oncrawl.com/oncrawl-insights/seo-log-analyzer/) To test the crawlability of our links and make sure that the Google crawler is referring us
 - [W3C HTML](https://validator.w3.org/) To check the quality of our HTML
